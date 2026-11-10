@@ -1,0 +1,19 @@
+ANUARIO ESCOLAR DIGITAL — ARCHIVOS DEL PROYECTO
+
+CONTENIDO
+- index.html: estructura del anuario.
+- style.css: diseño y estilos.
+- script.js: navegación, edición y datos de los 30 estudiantes.
+- plantilla.png: fondo de las páginas de estudiantes.
+- escudo.png: imagen de portada.
+- LEEME.txt: notas originales del proyecto.
+
+IMÁGENES
+Se incorporaron al arreglo de estudiantes las fotografías y firmas, siguiendo el orden de las 30 páginas del archivo HTML proporcionado. Las imágenes que estaban incrustadas como datos base64 quedan incluidas dentro de script.js. Las imágenes que en el archivo original dependían de enlaces externos conservan esos enlaces y requieren que sigan disponibles.
+
+CÓMO ABRIR
+1. Extrae todos los archivos del ZIP en una misma carpeta.
+2. Abre index.html con un navegador actualizado.
+3. Mantén juntos index.html, style.css, script.js, plantilla.png y escudo.png para que el anuario cargue correctamente.
+
+Puedes editar el contenido desde el anuario según las funciones disponibles en el proyecto. Para conservar cambios, utiliza la opción de guardar del propio anuario si está disponible.
